@@ -41,6 +41,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Stones on the Table", "7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Way Too Long Words", "1. Way Too Long Words\1. Way Too Long Words.csproj", "{6CB5C304-EFB1-42CB-B6E0-1EE651DF2D14}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Team", "18. Team\18. Team.csproj", "{AADD96FE-8E80-47DC-980B-14E3022B5F02}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{6CB5C304-EFB1-42CB-B6E0-1EE651DF2D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CB5C304-EFB1-42CB-B6E0-1EE651DF2D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CB5C304-EFB1-42CB-B6E0-1EE651DF2D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AADD96FE-8E80-47DC-980B-14E3022B5F02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AADD96FE-8E80-47DC-980B-14E3022B5F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AADD96FE-8E80-47DC-980B-14E3022B5F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AADD96FE-8E80-47DC-980B-14E3022B5F02}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
