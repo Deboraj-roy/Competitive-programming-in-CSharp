@@ -10,27 +10,15 @@ This repository contains my solutions and notes for various competitive programm
 - Usage
 -Contributing
 
-# Getting Started
+## Getting Started
 To get started with this repository, simply clone it to your local machine:
-<details>
-  <summary>Click to Copy Code</summary>
+
 
   ```bash
 # git clone https://github.com/Deboraj-roy/Competitive-programming-in-CSharp.git 
-</details>
-
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.8/clipboard.min.js"></script>
-
-<button id="copy-link" data-clipboard-text="https://github.com/Deboraj-roy/Competitive-programming-in-CSharp.git ">Copy Git Repo Link</button>
-<script>
-  new ClipboardJS('#copy-link');
-</script>
 
 
 
-```bash
-git clone [<insert Git repo link here>](https://github.com/Deboraj-roy/Competitive-programming-in-CSharp.git)
 
  
 
