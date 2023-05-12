@@ -6,13 +6,18 @@ Competitive programming (also known as sports programming) is a mind sport usual
 This repository contains my solutions and notes for various competitive programming problems from websites such as Codeforces, AtCoder, and LeetCode.
 
 # Table of Contents
-##Getting Started
-##Usage
-##Contributing
+- Getting Started
+- Usage
+-Contributing
 
 # Getting Started
 To get started with this repository, simply clone it to your local machine:
-# git clone https://github.com/Deboraj-roy/Competitive-programming-in-CSharp.git #
+<details>
+  <summary>Click to Copy Code</summary>
+
+  ```bash
+# git clone https://github.com/Deboraj-roy/Competitive-programming-in-CSharp.git 
+
 
 # Usage
 The contents of this repository are organized by problem type and website. Each problem directory contains a README.md file that describes the problem and any accompanying code files that include my solution(s) to the problem.
