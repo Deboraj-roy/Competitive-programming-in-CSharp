@@ -41,9 +41,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7. Stones on the Table", "7
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1. Way Too Long Words", "1. Way Too Long Words\1. Way Too Long Words.csproj", "{6CB5C304-EFB1-42CB-B6E0-1EE651DF2D14}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18. Team", "18. Team\18. Team.csproj", "{AADD96FE-8E80-47DC-980B-14E3022B5F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18. Team", "18. Team\18. Team.csproj", "{AADD96FE-8E80-47DC-980B-14E3022B5F02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19. Theatre Square", "19. Theatre Square\19. Theatre Square.csproj", "{54B3EBA7-17CC-4CC1-A80F-B4AE6796F188}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19. Theatre Square", "19. Theatre Square\19. Theatre Square.csproj", "{54B3EBA7-17CC-4CC1-A80F-B4AE6796F188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20. Next Round", "20. Next Round\20. Next Round.csproj", "{84980BB9-F725-422D-970F-8652C1017324}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -135,6 +137,10 @@ Global
 		{54B3EBA7-17CC-4CC1-A80F-B4AE6796F188}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54B3EBA7-17CC-4CC1-A80F-B4AE6796F188}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54B3EBA7-17CC-4CC1-A80F-B4AE6796F188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84980BB9-F725-422D-970F-8652C1017324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84980BB9-F725-422D-970F-8652C1017324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84980BB9-F725-422D-970F-8652C1017324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84980BB9-F725-422D-970F-8652C1017324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
