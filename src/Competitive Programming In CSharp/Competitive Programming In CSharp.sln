@@ -49,7 +49,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20. Next Round", "20. Next 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21. Domino piling", "21. Domino piling\21. Domino piling.csproj", "{F735541F-C887-4455-8B84-E5FC9D3896AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22. Young Physicist", "22. Young Physicist\22. Young Physicist.csproj", "{5532AA40-3DA2-496F-8AF8-2F892688A5C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "22. Young Physicist", "22. Young Physicist\22. Young Physicist.csproj", "{5532AA40-3DA2-496F-8AF8-2F892688A5C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23. Nearly Lucky Number", "23. Nearly Lucky Number\23. Nearly Lucky Number.csproj", "{1E5EEF14-C382-4664-B34E-B1B4750F82DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +155,10 @@ Global
 		{5532AA40-3DA2-496F-8AF8-2F892688A5C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5532AA40-3DA2-496F-8AF8-2F892688A5C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5532AA40-3DA2-496F-8AF8-2F892688A5C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5EEF14-C382-4664-B34E-B1B4750F82DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5EEF14-C382-4664-B34E-B1B4750F82DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5EEF14-C382-4664-B34E-B1B4750F82DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5EEF14-C382-4664-B34E-B1B4750F82DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
