@@ -31,8 +31,14 @@ code
 outputCopy
 NO
 */
+string t = Console.ReadLine();
 string s = Console.ReadLine();
-char[] r = s.ToCharArray();
+char[] r = t.ToCharArray(); 
 Array.Reverse(r);
 string rev = new string(r);
-Console.WriteLine(r);
+if (rev.Equals(s))
+{
+    Console.WriteLine("YES");
+}
+else
+    Console.WriteLine("NO");
