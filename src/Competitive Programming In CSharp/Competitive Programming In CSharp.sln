@@ -57,6 +57,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "24. Anton and Danik", "24. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25. Translation", "25. Translation\25. Translation.csproj", "{8BA9CA47-E052-41C6-9372-EC2067F75C7B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26. Queue at the School", "26. Queue at the School\26. Queue at the School.csproj", "{7EFDF001-58BF-48CF-9436-0D773BE705C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +173,10 @@ Global
 		{8BA9CA47-E052-41C6-9372-EC2067F75C7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BA9CA47-E052-41C6-9372-EC2067F75C7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BA9CA47-E052-41C6-9372-EC2067F75C7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EFDF001-58BF-48CF-9436-0D773BE705C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EFDF001-58BF-48CF-9436-0D773BE705C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EFDF001-58BF-48CF-9436-0D773BE705C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EFDF001-58BF-48CF-9436-0D773BE705C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
