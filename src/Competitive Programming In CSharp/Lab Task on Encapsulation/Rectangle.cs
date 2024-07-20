@@ -19,8 +19,36 @@ namespace Lab_Task_on_Encapsulation
 
         public void showArea()
         {
-            Console.WriteLine($"Area: {height * width}");
+            if (initialize)
+            { 
+                Console.WriteLine($"Area: {height * width}");
+            }
+            else
+            {
+                Console.WriteLine("Hight: ");
+                var hight = int.Parse(Console.ReadLine());
+                Console.WriteLine("Width: ");
+                var Width = int.Parse(Console.ReadLine());
+                setDimension(hight, Width);
+                showArea();
+            }
         }
-        public int getArea() { return height * width; }
+        public int getArea()
+        {
+            if (initialize)
+            { 
+                return height * width;
+            }
+            else
+            {
+                Console.WriteLine("Hight: ");
+                var hight = int.Parse(Console.ReadLine());
+                Console.WriteLine("Width: ");
+                var Width = int.Parse(Console.ReadLine());
+                setDimension(hight, Width);
+                return getArea();
+            }
+            
+        }
     }
 }
