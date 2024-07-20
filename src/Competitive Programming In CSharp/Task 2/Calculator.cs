@@ -14,34 +14,39 @@ namespace Task_2
         { myValue = value; initialize = true; }
         public void square() 
         {
-            Console.WriteLine("Square: " + myValue * myValue);
+            //Console.WriteLine("Square: " + myValue * myValue);
 
-            /* if (initialize)
-             {
-                 Console.WriteLine("Square: " + myValue * myValue);
-             }
-             else
-             {
-                 var value = double.Parse(Console.ReadLine());
-                 setValue(value);
-                 square();
-             }*/
+            if (initialize)
+            {
+                Console.WriteLine("Square: " + myValue * myValue);
+            }
+            else
+            {
+                solution();
+                square();
+            }
         }
         public void qube()
         {
-            Console.WriteLine("Qube: " + myValue * myValue * myValue);
+            //Console.WriteLine("Qube: " + myValue * myValue * myValue);
 
-            /*if (initialize)
+            if (initialize)
             {
                 Console.WriteLine("Qube: " + myValue * myValue * myValue);
             }
             else
             {
-                var value = double.Parse(Console.ReadLine());
-                setValue(value);
+                solution();
                 qube();
-            }*/
+            }
 
+        }
+
+        void solution()
+        {
+            Console.WriteLine("Enter a Double Value");
+            var value = double.Parse(Console.ReadLine());
+            setValue(value);
         }
 
     }
