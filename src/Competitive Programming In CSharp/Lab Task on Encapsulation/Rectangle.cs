@@ -8,17 +8,19 @@ namespace Lab_Task_on_Encapsulation
 {
     public class Rectangle
     {
-        int height, width;
-        public setDimension(int height, int width)
+        public int height, width;
+        public bool initialize = false;
+        public void setDimension(int height, int width)
         {
             this.height = height;
             this.width = width;
+            initialize = true;
         }
 
-        void showArea()
+        public void showArea()
         {
             Console.WriteLine($"Area: {height * width}");
         }
-        int getArea() { return height * width; }
+        public int getArea() { return height * width; }
     }
 }
