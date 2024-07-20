@@ -1,4 +1,26 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+/*Task 1
+class Rectangle
+{
+    int width, height;
+    public:
+void setDimension(int x, int y)
+    {
+        width = x; height = y;
+    }
+    void showArea() { cout << width * height; }
+    int getArea() { return width * height; }};
+a.Define all the member functions of the Rectangle class.
+b.After defining the member functions, use the Rectangle class by creating multiple objects of this type.
+c. Set the dimension of each of the rectangle objects using setDimension() function.
+d.Output the area of each rectangle using the function void showArea() and int getArea() both.
+e. Without calling the setDimension() call showArea() once, that prints some garbage values. Solve that problem
+anyhow.*/
+
+
+
+
 using Lab_Task_on_Encapsulation;
 
 Console.WriteLine("Hello, World!");
